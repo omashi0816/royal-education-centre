@@ -534,6 +534,24 @@ http://localhost/royal-edu-center/public
 
 Screenshots of the system interface can be added here, including:
 
+### 🔐 Login
+![Login Page](screenshots/login.png)
+
+### 👨‍💼 Admin Dashboard
+![Admin Dashboard](screenshots/admin.png)
+
+### 💰 Cashier Dashboard
+![Cashier Dashboard](screenshots/cashier.png)
+
+### 📊 Manager Dashboard
+![Manager Dashboard](screenshots/manager.png)
+
+### 👨‍🏫 Teacher Dashboard
+![Teacher Dashboard](screenshots/teacher.png)
+
+### 🎓 Student Dashboard
+![Student Dashboard](screenshots/studeny.png)
+
 
 
 \* Login page
