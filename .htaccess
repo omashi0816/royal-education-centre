@@ -1,0 +1,9 @@
+# Prevent directory listing
+Options -Indexes
+
+# Redirect to public folder (relative path for subfolder compatibility)
+RewriteEngine On
+RewriteRule ^$ public/ [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ public/$1 [L]
